@@ -4,7 +4,7 @@
   "description": "Font Icon Library for Prime UI Libraries",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/primefaces/primeicons.git"
+    "url": "git+https://github.com/dflock/primeicons.git"
   },
   "keywords": [
     "Icon"
